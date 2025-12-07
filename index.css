@@ -13,7 +13,7 @@
     overflow: hidden;
 }
 #home{
-    background: url(../images/15.jpg);
+    background: url(images/15.jpg);
     background-position: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -241,3 +241,4 @@ font-size: large;
 .descriptor{
 text-wrap: nowrap;
 }
+
